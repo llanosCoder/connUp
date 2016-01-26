@@ -1,0 +1,21 @@
+.datos_adicionales_wrapper {
+    padding-top: 10px;
+    padding-left: 30px;
+}
+
+#select_intereses_wrapper {
+    margin-bottom: 30px;
+}
+
+.notificaciones_wrapper {
+    text-align: center;
+    margin: 5px;
+}
+
+#btn_accept {
+    margin-left: 5px;
+}
+
+#input_chat_wrapper {
+    margin-left: -10px;
+}
